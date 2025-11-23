@@ -1,2 +1,3 @@
-# aula-06-06-BDistribuidora
+# Banco de Dados - DISTRIBUIDORA
+
 Banco de dados Professor Enildo.
