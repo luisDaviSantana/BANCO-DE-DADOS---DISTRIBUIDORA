@@ -1,3 +1,3 @@
-# Banco de Dados - DISTRIBUIDORA
+# BANCO DE DADOS - DISTRIBUIDORA
 
 Banco de dados Professor Enildo.
